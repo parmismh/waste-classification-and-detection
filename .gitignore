@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Trained models
+*.pt
+*.pth
+*.onnx
+
+# Datasets
+datasets/
+dataset/
+data/
+
+# YOLO generated files
+runs/
+yolo_runs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
